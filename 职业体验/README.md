@@ -94,7 +94,7 @@ https://www.nowcoder.com/discuss/324293?type=post&order=time&pos=&page=1&channel
 
 
 
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210226111444762.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZqaGdoamdoag==,size_16,color_FFFFFF,t_70)
 
 
 
@@ -125,12 +125,19 @@ https://mp.weixin.qq.com/s/ZX-QH4zCYIDz5b8N_vslyw
 # 信息源8：学校讲座
 
 博主目前在哈工大深圳读研
+
 研二的时候有在深圳做老师的师兄
+
 开了一个深圳老师面试介绍相关的讲座
+
 刚好我把整个讲座完整的录下来了
+
 讲的东西非常丰富全面且深入
+
 关注公众号“陈同学在搬砖”
-后台回复“录音”
+
+后台回复`“录音”`
+
 就可以拿到这份录音
 
 
